@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="system-ui">
+  <rect width="1280" height="720" fill="#f5f5f7"/>
+  <rect width="1280" height="72" fill="#ffffff"/>
+  <circle cx="36" cy="36" r="14" fill="#0071e7"/>
+  <rect x="64" y="28" width="140" height="16" rx="8" fill="#1d1d1f" opacity="0.85"/>
+  <rect x="960" y="24" width="120" height="26" rx="13" fill="#0071e7"/>
+  <rect x="112" y="180" width="720" height="44" rx="10" fill="#1d1d1f" opacity="0.9"/>
+  <rect x="112" y="240" width="520" height="44" rx="10" fill="#1d1d1f" opacity="0.7"/>
+  <rect x="112" y="330" width="280" height="30" rx="8" fill="#86868b"/>
+  <rect x="112" y="392" width="200" height="56" rx="28" fill="#0071e7"/>
+  <rect x="760" y="150" width="400" height="420" rx="24" fill="#ffffff" stroke="#d2d2d7"/>
+  <rect x="790" y="185" width="340" height="30" rx="8" fill="#1d1d1f" opacity="0.85"/>
+  <rect x="790" y="235" width="260" height="20" rx="6" fill="#86868b"/>
+  <rect x="790" y="280" width="340" height="44" rx="10" fill="#f5f5f7" stroke="#d2d2d7"/>
+  <rect x="790" y="340" width="340" height="44" rx="10" fill="#f5f5f7" stroke="#d2d2d7"/>
+  <rect x="790" y="404" width="340" height="52" rx="26" fill="#0071e7"/>
+  <rect x="880" y="560" width="360" height="90" rx="18" fill="#1d1d1f"/>
+  <circle cx="916" cy="605" r="14" fill="#30d158"/>
+  <rect x="944" y="588" width="200" height="14" rx="7" fill="#ffffff" opacity="0.9"/>
+  <rect x="944" y="612" width="140" height="12" rx="6" fill="#ffffff" opacity="0.5"/>
+  <text x="40" y="700" font-size="24" fill="#86868b">Poster placeholder — Sage Hill Bottle Depot (flagship video to follow)</text>
+</svg>
